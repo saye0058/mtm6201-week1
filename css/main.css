@@ -1,0 +1,39 @@
+*{
+    background-color: #062e03;
+}
+
+header{
+    padding-left: 50px;
+}
+
+h1 {
+    color: #fff;
+    background-color: green;
+}
+
+img {
+    float: left;
+    max-width: 150px;
+    padding-left: 50px;
+}
+
+p {
+    float: none;
+    padding-left: 50px;
+    color: #fff;
+}
+
+.list {
+    clear:left;
+    padding-left: 60px;
+    padding-top: 30px;
+    font-weight: bold;
+    font-size: 1.15rem;
+   
+}
+
+dt, dd{
+    margin: 0;
+    background-color: green;
+    color: #fff;
+}
